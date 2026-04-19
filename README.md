@@ -4,7 +4,7 @@
 
 **Project by:** Ankur Singh  
 **Institution:** Newton School of Technology (NST), Pune  
-**University:** Atal Bihari Vajpayee Vishwavidyalaya (ADYPU), Pune  
+**University:** Ajeenkya DY Patil University (ADYPU), Pune  
 **Reviewed By:** Tausif SK
 
 ---

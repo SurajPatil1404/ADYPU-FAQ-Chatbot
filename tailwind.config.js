@@ -19,7 +19,7 @@ export default {
       },
       fontFamily: {
         syne: ['Syne', 'sans-serif'],
-        dmsans: ['DM Sans', 'sans-serif'],
+        manrope: ['Manrope', 'sans-serif'],
       },
     },
   },

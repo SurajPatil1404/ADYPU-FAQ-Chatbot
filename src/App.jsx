@@ -95,7 +95,7 @@ function App() {
   };
 
   return (
-    <div className="flex h-screen w-full font-dmsans overflow-hidden">
+    <div className="flex h-screen w-full font-manrope overflow-hidden">
       <Sidebar 
         history={history} 
         onSelectChat={handleSelectChat} 

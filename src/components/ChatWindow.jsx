@@ -18,7 +18,7 @@ const ChatWindow = ({ chat, isTyping, onStopGenerate }) => {
             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
           </svg>
         </div>
-        <h1 className="font-syne font-extrabold text-6xl mb-6 leading-tight">
+        <h1 className="font-manrope font-extrabold text-6xl mb-6 leading-tight">
           Ask anything <br /> about college
         </h1>
         <p className="text-xl opacity-60 max-w-md">
@@ -32,7 +32,7 @@ const ChatWindow = ({ chat, isTyping, onStopGenerate }) => {
     <div className="flex-grow flex flex-col overflow-hidden relative">
       {/* Header */}
       <div className="p-8 pb-4">
-        <h1 className="font-syne font-extrabold text-4xl mb-2">{chat.title}</h1>
+        <h1 className="font-manrope font-extrabold text-4xl mb-2">{chat.title}</h1>
       </div>
 
       {/* Message Thread */}

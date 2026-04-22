@@ -9,7 +9,7 @@ const PromptCard = ({ title, color, onClick }) => {
   return (
     <div className={`${bgStyles[color] || 'bg-white'} p-6 rounded-[32px] flex flex-col justify-between h-[240px] relative overflow-hidden group transition-transform hover:scale-[1.02] cursor-pointer`} onClick={onClick}>
       <div>
-        <h3 className="font-syne font-bold text-xl leading-tight mb-2">{title}</h3>
+        <h3 className="font-manrope font-bold text-xl leading-tight mb-2">{title}</h3>
         <p className="text-sm opacity-70">Asked by students</p>
       </div>
       

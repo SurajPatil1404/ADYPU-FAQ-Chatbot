@@ -6,7 +6,7 @@ const Sidebar = ({ history, onSelectChat, onNewChat, onUsePrompt }) => {
     <aside className="w-[320px] bg-sidebar h-screen flex flex-col p-6 text-white shrink-0">
       {/* App Logo */}
       <div className="flex items-center justify-between mb-8 cursor-pointer">
-        <h1 className="font-syne font-extrabold text-xl">CollegeBot v1.0</h1>
+        <h1 className="font-manrope font-extrabold text-xl">CollegeBot v1.0</h1>
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
           <path d="M6 9l6 6 6-6" />
         </svg>
